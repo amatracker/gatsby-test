@@ -1,5 +1,8 @@
 module.exports = {
   siteMetadata: {
+    name: ``,
+    title: ``,
+    date: ``,
   },
   plugins: [
     `gatsby-plugin-layout`,
