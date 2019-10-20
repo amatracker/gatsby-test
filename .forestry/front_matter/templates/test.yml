@@ -12,3 +12,5 @@ fields:
   config:
     required: false
   label: URL
+pages:
+- src/slides/03-test.md
